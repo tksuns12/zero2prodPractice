@@ -1,0 +1,11 @@
+/Users/hyungilkang/Workspace/zero2prodPractice/target/debug/deps/httparse-248054b245f0a33e.rmeta: /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/hyungilkang/Workspace/zero2prodPractice/target/debug/deps/libhttparse-248054b245f0a33e.rlib: /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/hyungilkang/Workspace/zero2prodPractice/target/debug/deps/httparse-248054b245f0a33e.d: /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs:
+/Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs:
+/Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs:
+/Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs:
+/Users/hyungilkang/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs:
